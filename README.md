@@ -7,7 +7,9 @@ My work so far spans ML modeling, deep learning, RAG-based LLM systems, and full
 This GitHub is a living workspace: a place where I document projects, coursework, experiments, and ideas as I continue to grow as a data scientist and engineer.
 
 📚 Currently learning: advanced ML, data engineering workflows, and scalable AI systems
+
 🔍 Interested in: applied ML, predictive modeling, RAG/LLMs, and data-driven decision making
+
 🚧 Always building, always iterating
 
 <!---
